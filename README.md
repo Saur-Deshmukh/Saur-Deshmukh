@@ -1,6 +1,24 @@
 # 💫 About Me:
-👋 Hello! I'm Saur Deshmukh, a dedicated second-year B.Tech student with a passion for engineering and technology.<br><br>💻 I am certified in the "Python Masterclass: Learn By Building 15 Projects & ChatGPT" and "The Complete 2024 Web Development Bootcamp" on Udemy. My expertise includes Python, React.js, API integration, and database management.<br><br>🌐 I'm focused on becoming a full-stack developer with hands-on experience in HTML, CSS, JavaScript, Python and React.js. My goal is to create seamless and robust web applications.<br><br>📚 I love tackling data structures and algorithms problems, continuously sharpening my problem-solving skills and deepening my understanding of software development principles.<br><br>🚀 I'm eager to contribute to the tech industry by developing innovative solutions, collaborating on exciting projects, and constantly learning new technologies.<br><br>Feel free to check out my GitHub repositories to see some of the projects I've been working on: Saur-Deshmukh
+🚀 Aspiring Full-Stack Developer | ML Enthusiast | Tech Innovator
 
+I’m a second-year B.Tech student passionate about engineering, web development, and machine learning. I thrive on solving complex problems and building impactful tech solutions.
+
+💻 Tech Stack & Skills:<br><br>
+✅ Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
+✅ Backend: Node.js, Express.js, Python<br>
+✅ Database: MySQL, Firebase<br>
+✅ Machine Learning: Scikit-Learn, TensorFlow, NLP<br>
+✅ Tools & Frameworks: Git, REST APIs, Flask<br>
+
+📚 What I Love Doing:<br>
+🔹 Developing full-stack web applications<br>
+🔹 Building ML models for real-world applications<br>
+🔹 Solving data structures & algorithms problems<br>
+🔹 Exploring new technologies and collaborating on innovative projects<br>
+
+🌟 Notable Projects:<br>
+🔹 Signifique – AI-based real-time Indian Sign Language translator (Hackanova 4.0 Winner)<br>
+🔹 VibeBoost – AI-powered mood enhancer using sentiment analysis (BERT)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saurd15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saur-deshmukh-800b5a291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SaurDeshmukh) 
